@@ -1,0 +1,19 @@
+.Context {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.context-menu {
+  position: absolute;
+  list-style: none;
+  padding: 10px 0;
+  margin: 0;
+  z-index: 1000;
+}
+.context-menu .context-menu li {
+  cursor: pointer;
+}
+.context-menu .context-menu li:hover {
+  background-color: #f0f0f0;
+}/*# sourceMappingURL=App.css.map */
